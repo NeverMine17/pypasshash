@@ -9,6 +9,6 @@ $ pip install git+https://github.com/NeverMine17/pypasshash
 Then import it from Python:
 ```python
 >>> import pypasshash
->>> pypasshash.get_pass('example_passowrd', 'example.com')
-'y7AyJpNVUAGq'
+>>> pypasshash.get_pass('example_password', 'example.com')
+'s9Qm4kCUPs9v'
 ```
